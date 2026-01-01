@@ -1,0 +1,11 @@
+2026-01-01 05:03:51 - Login script started
+2026-01-01 05:03:51 - Config loaded
+2026-01-01 05:03:51 - Input received: {"email":"gamalarun@gmail.com","password":"123456789"}
+2026-01-01 05:03:51 - Login successful for user: gamalarun@gmail.com, Session ID: 0u7l028co0sjovgk0svk5fpbdf
+2026-01-01 05:04:13 - ADMIN LOGIN: Admin login script started
+2026-01-01 05:04:13 - ADMIN LOGIN: Config loaded
+2026-01-01 05:04:13 - ADMIN LOGIN: Input received: {"email":"admin@gmail.com","password":"admin123"}
+2026-01-01 05:04:13 - ADMIN LOGIN: Admin query result: Found admin ID: 1
+2026-01-01 05:04:13 - ADMIN LOGIN: Password is hashed: Yes
+2026-01-01 05:04:13 - ADMIN LOGIN: Password verification result: Valid
+2026-01-01 05:04:13 - ADMIN LOGIN: Admin login successful for: admin@gmail.com
